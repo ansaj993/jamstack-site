@@ -7,5 +7,4 @@ module.exports = function(config){
             output: "dist"
         }
     };
-
 };
