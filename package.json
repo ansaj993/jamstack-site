@@ -1,0 +1,23 @@
+{
+  "name": "jamstack-example",
+  "version": "1.0.0",
+  "description": "Jamstack example from freecodecamp",
+  "main": "script.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ansaj993/jamstack-site.git"
+  },
+  "author": "Jasna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansaj993/jamstack-site/issues"
+  },
+  "homepage": "https://github.com/ansaj993/jamstack-site#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
